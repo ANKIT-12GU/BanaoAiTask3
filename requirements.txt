@@ -1,0 +1,7 @@
+pyautogui
+pytesseract
+psutil
+pygetwindow
+transformers
+plyer
+matplotlib
