@@ -1,0 +1,518 @@
+[
+    {
+        "timestamp": "2025-02-09 00:33:01.869257",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled ma q gittub (2) your\n\nalho ote! d.ipynb?\n\n= jupyter untitled last checkpoint: 1 minute ago fy\n\nfile edit view run kernel settings help trusted\n\n@+x 6% > & c \u00bb code v rbase]* \u00a9 =\n\u2018logs = json. load(f)\n\nlogs . append(activity)\nwith open(log_file, '\n\njupyterlab (7 python [conda en\u2019\n\njson.dump(logs, f\n\n# main monitoring loop\n\ndef monitor(\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\n\ncurrent_tab = get_active_browser_tab()\n\nprint(f\"debug: active tab: {current_tab}\")\n\nscreenshot_path = capture_screen()\n\nextracted_text = extract_text(screenshot_path)\n\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"timestamp\": str(datetime.now()), \u201cbrowser_tal\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\n\ndevice set to use cpu\n\n[*]: af _name_ __main_' +e nn 4p7 5\nmonitor()\n| describe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'): i am working with jupyter notebok, gfg, github\n\no sir: very poor\n\n5 00:32\nnow q search nw sores",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:06.694661",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled\n\nalho\n\n\u00a9) gittub >\n\n@ yout\n\nj.ipynb?\n\n= jupyter untitled last checkpoint: 1 minute ago\n\nfile edit\n\n@+ xx\n\nview run kernel\n\nob oo > m= cg \u00bb code v\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\"\nscreenshot_path = capture_screen()\n\nsettings help\n\nextracted_text = extract_text(screenshot_path)\n\ndetected_category = analyze_content(extracted_text, expected_activities)\n\nlog_activity({\"timestamp\": str(datetime.now()), \"browser_ta\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep (capture_interval)\n\ndevice set to use cpu\n\ncurrent_tab, \"content\n\nextracted _text, \"category\n\njupyterlab (7\n\ntrusted\n\ncbase]* \u00a9 =\n\npython [conda en\n\ndetected_category})\n\nif _name_\n\n_main_\":\n\nmonitor()\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"timestamp\": str(datetime.now()), \u201cbrowser_tal\nsend_notification(detected_category)\nprevious_tab = current_tab\ntime. sleep(capture_interval)\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\ndevice set to use cpu\n[*]: af _name_ __main_' +e nn 4p7 5\n\nmonitor()\n| describe your planned activities (e.g.,\n\nwill be coding in vscode and researching python on gfg'): i\n\nam\n\n+ ot ae\n\n@ python\n\nattention!\nkeep up the great work!\n\nworking with jupy4\n\no sir: very poor\nnow\n\nq search\n\n00:33\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:13.596722",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 q)youtub x netflixnd x 2m disneys x \u00a9 entailmen\u2019 x | @ task3:pro x | m= dashboar xx | + - ag xx\n\n\u20ac > cg  & hotstar.com/in/home?ref=%2fin brx @\n= . -\ndienep>\nhotstar\nhotstar specials ba \\\naa 5\nb ,\nq \u00bb\nseason -2 \u201d =\n() 2025 - u/a16+ - 2seasons - hindi .\na be good to no one! burying all his fears, abhimanyt\nso) back to hunt down the ones who wronged him. b\nhow far will this revenge-fuelled vendetta take hii\n\u00a9\nthriller | romance | action | conspiracy @\nia\nfa\n> watch now we}\n\u00ae te ss\nlatest releases oh python [\nj attention!\nkeep up the great work!\nair. ve f fs eng 2 00:33\nnowe q search & bfe? \u00a9 ii mm a 4 omen || te es fof eee",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:20.474922",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | kx untitled x | 26 machinel x | \u20ac) github-b x | @\u00ae q)youtub x | \\ netflixinc x | pm disney+h xx \u00a9 entailmen\u2019 x | @ task3:pro x | mh dashboar x | + = a x\n\n\u20ac > g 2% hotstar.com/in/home?ref=%2fin qx @ :\nding\nhotstar\npf\nhotstar specials\nq\nseason -2\n) 2025 - u/a16+ - 2 seasons - hindi\na be good to no one! burying all his fears, abhimanyu is\n0 back to hunt down the ones who wronged him. but\nhow far will this revenge-fuelled vendetta take him?\n\u00a9\nthriller | romance | action | conspiracy ix)\nia\n\u00bb watch now ma tamale >\n@\nlatest releases oh python ex\n} = | a attention!\nthe bas keep up the great work!\nstoryteller\n2\u00bb. \u2018 = v a. & v ces) ei\nair. ve fi fs eng 2 00:33\nnowe q search 8 fbe@ \u00a9 ii mm a 6 ore) te es fof eee",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:27.523973",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | xx untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | \\\\ netfixinc x | 2h disneysh x \u00a9 entailmen x | @ task3:pro xx | ma dashboar x | + = a x\n\n\u20ac > cg 2% hotstar.com/in/home?ref=%2fin qx*\n\nsr\n\ndin\nhotstar\nhotstar specials\nq\nseason -2\n\n() 2025 - u/a16+ - 2 seasons - hindi\n\u2014 be good to no one! burying all his fears, ab!\noa) back to hunt down the ones who wronged\n\nhow far will this revenge-fuelled vendetta\n()\n\nthriller | romance | action | conspiracy\n3\n\n\u00bb watch now\n\n2)\n\nlatest releases\n\nthe\n\u2018 sporytelter\na. < ,\n\nair. ve eng :\nnowe q search & a = \u2018a @ \u00a9 in | a \u00a2 rs) 12) =i te es fof eee",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:34.456817",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "ys home\n\nx | xx untitled x | 26 machinel x | \u20ac) github-2 x | g@\u00ae @yyoutub x | | netfixinc x | en disneyt+h x \u00a9 entailmen\u2019 x | @ task3:pro x | mm dashboar x | + - ag xx\n\n23 hotstar.com/in/home?ref=%2fin qx* @\n\n<> \u00a2\ndin\nhotstar wx '\nhotstar specials n)\n* gunaakh . )\nq ,\nseason -2\ntm be\noo 2025 - u/a16+ - 2 seasons - hindi ; \u00e9\na be good to no one! burying all his fears, nyu is a\niy back to hunt down the ones who wronged him. but\nhow far will this revenge-fuelled vendetta take him?\n\\\n(s)\nthriller | romance | action | conspiracy @\nu8 \\ |\n\u00bb watch now +\n(2)\nlatest releases\n{ \\ story telter at | le\nair. ve eng 00:33\nnowe q search & a = \u2018a @ \u00a9 in | las) sc 2) 12) =i a nm \u00a9 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:40.697913",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | | netflixind x an disneys) x | \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > g  & netflixcomyin/ ex \u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\n\nready to watch? enter your email to create or restart your membership.\n\n1 a \"get started >\n\nair: very poor\nnow\n\neq search sete? ommagd ob an fp 9\u00a9 poorates",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:47.119701",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | | netflixind x an disneys) x | \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > g  & netflixcomyin/ ex \u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nkeep up the great work!\n\nair: very poor\nnow\n\neq search sete? ommagd ob an fp 9\u00a9 poorates",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:33:53.135326",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | | netflixind x an disneys) x | \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > g  & netflixcomyin/ ex \u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nkeep up the great work!\n\nair: very poor\nnow\n\neq search sete? ommagd ob an fp 9\u00a9 poorates",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:37:42.061643",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled ma q gittub (2) your\n\nalho ote! d.ipynb?\n\n= jupyter untitled last checkpoint: 57 seconds ago\n\nfile edit view run kermel settings help\n\n@+ xx \u00a9 f > & gc \u00bb code v jupyterlab (2 python [conda env:\nwith open(log_file, 'r') as f: -\nlogs = json.load(f) \u00bb | find x\n\nlogs . append(activity)\nwith open(log_file, 'w') as f:\njson.dump(logs, #, indent=4)\n\n# main monitoring loop\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\n\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\"\nscreenshot_path = capture_screen()\nextracted_text = extract_text(screenshot_path)\n\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"timestamp\": str(datetime.now()), \"browser_ta\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep (capture_interval)\n\ncurrent_tab, \"content\": extracted_text, \"category\n\ndetected_category})\n\ndevice set to use cpu\n\n[=]: af _name__\n\nmain % 4p 47 8\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'):\n\niam working with jupyter notebook, gfg and github\nfor work\n\n4\n\n: 00:37\nq search a 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:02.893269",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled\n\n\u00a9) gittub\n\nalho ote! d.ipynb?\n\n= jupyter untitled last checkpoint: 1 minute ago\nfile edit\n\n@+ xx\n\nview run kernel\n\nob oo > m= cg \u00bb code v\nwith open(log_file, 'r') as f:\nlogs = json.load(f)\nlogs . append(activity)\nwith open(log_file, 'w') as f:\njson.dump(logs, #, indent=4)\n\nsettings help\n\n# main monitoring loop\ndef monitor():\nglobal previous_tab\n\nget_user_intended_activities()\n\npd (2) yout\n\njupyterlab (7 python [conda env:\n\n\u00bb | find\n\nexpected_activities = load_expected_activities()\n\nwhile true:\n\ncurrent_tab = get_active_browser_tab()\n\nprint(f\"debug: active tab: {current_tab}\"\nscreenshot_path = capture_screen()\n\nextracted_text = extract_text(screenshot_path)\n\ndetected_category\n\nlog_activity({\"timestamp\"\n\nstr(datetime.now()), \"browser_tal\n\nanalyze_content(extracted_text, expected_activities)\n\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\n\nsend_notification(detected_category)\n\nprevious_tab = current_tab\ntime. sleep(capture_interval)\n\ndevice set to use cpu\n\n[=]: af _name__\n\n_main_\n\nmonitor()\n\nwith open(log file, \"fr\" as fr =\nlogs = json.load(f) \u00bb | find x\n\nlogs . append(activity)\nwith open(log file, 'w') as f:\njson.dump(logs, #, indent=4)\n\nq search\n\n+ ot 4? 8\n\n@ python\nattention!\n\nyou are on track! keep up the great work!\n\n00:37\n09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:10.872688",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 q)youtub x | | netflixind x | 2m disney+ x \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > gs  & netflixcom/in/ er (\u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nrefocus on your tasks to stay productive.\n\ntsf\nclear\n\nqc eee eotma gooe a 2 200 went",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:18.574281",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | xx untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | \\\\ netfixinc x | 2h disneysh x \u00a9 entailmen x | @ task3:pro xx | ma dashboar x | +\n\n\u20ac > cg 2% hotstar.com/in/home?ref=%2fin qx*\n\naon\nhotstar\nhotstar specials\nq\nseason -2\n@ 2025 - u/a16+ - 2seasons - hindi\nll be good to no one! burying all his fears, abhimanyu is\n=) back to hunt down the ones who wronged him. but\nhow far will this revenge-fuelled vendetta take him?\n~\nre) a\nthriller | romance | action | conspiracy\n; al\n\u00bb watch now ty sa\n\u00a9 ss\n\nlatest releases @ python x\n\nattention!\nyou are on track! keep up the great work!\n\nfe\u00bb. 16s) \u00ab\u00a3\n75\u00b0f eng 00:38\njy clear q search a2 ww pf y\u00a9 6502205",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:26.755323",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "y < home x | kx untitled x | 26 machinel x | \u20ac) github x\nse cc 23 hotstar.com/in/home?ref=%2fin\ndep\nhotstar\nhotstar specials\n* gunarbr\n\u00a9\nseason -2\noo) 2025 - u/a16+ - 2seasons - hindi\n\nbe good to no one! burying all his fears, abhimanyu is\n\nos) back to hunt down the ones who wronged him. but\nhow far will this revenge-fuelled vendetta take him?\n\u00a9\nthriller | romance | action | conspiracy\n08\n\u00bb watch now +\n@\nlatest releases\ntx.\n75\u00b0f\nclear\n\n\u00ae (2) youtu\n\n& &@\n\nx\n\nnetflixnd x 2m disneys x \u00a9 entailmen\u2019 x | @ task3:pro x | m= dashboar xx | + - ag xx\n\noe\n\u00ae\n\"el hser aa=s &\n= te we a 1\n@ python bor\n\nattention!\nyou are on track! keep up the great work!\n\nvp\na@ 0 iim\n\nl tic &\na 69) o my ae avo 00:38\n\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:32.850681",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixind x | @h disneys x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g  & github.com &* (\u00a9 3)! @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\ntos sonatina\n\n@ python . x\n\nattention!\nyou are on track! keep up the great work!\n\ntsf\nclear\n\nq search settee 0omma goo ae a es",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:40.427786",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | | netflixind x an disneys) x | @ entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > gs  & netflixcom/in/ er (\u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nyou are on track! keep up the great work!\n\ntsf\nclear\n\nqc eee eotma gooe a 2 200 went",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:47.958382",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | | netflixind x an disneys) x | @ entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > gs  & netflixcom/in/ er (\u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nyou are on track! keep up the great work!\n\ntsf\nclear\n\nqc eee eotma gooe a 2 200 went",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:38:55.421573",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x | | netflixind x an disneys) x | @ entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > gs  & netflixcom/in/ er (\u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nyou are on track! keep up the great work!\n\ntsf\nclear\n\nqc eee eotma gooe a 2 200 went",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:39:03.559432",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "\u00a5  s home x jk untitled x = 26 machinel x | \u20ac) github-8 x | @ q)youtub x | | netflixind x an disneys) x | \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > gs  & netflixcom/in/ er (\u00a9 d1 @:\n\nnetflix je english - | signin\n\nunlimited movies,\ntv shows and more\n\nstarts at 7149. cancel at any time.\nready to watch? enter your email to create or restart your membership.\n\nemail address\n\n@ python ax\n\nattention!\nyou are on track! keep up the great work!\n\ntsf\nclear\n\nqc eee eotma gooe a 2 200 went",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:41:14.003507",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled ma q gittub (2) your\n\nalho ote! d.ipynb?\n\n= jupyter untitled last checkpoint: 48 seconds ago\n\nfile edit view run kermel settings help\n\n@+ xx oo > \u00bb cg \u00bb code v\nwith open(log_file, 'r') as f: -\ntess & jenne) * [find\nlogs .append(activity)\nwith open(log_file, 'w') as f:\njson.dump(logs, f, indent=4)\n\njupyterlab (7 python [conda env:\n\n# main monitoring loop\n\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\n\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\"\nscreenshot_path\n\ncapture_screen()\n\nextracted_text = extract_text(screenshot_path)\n\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\" str(datetime.now()), \"browser_tal\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep (capture_interval)\n\nimestamp\"\n\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\n\ndevice set to use cpu\n\n[*]: af _name__\n\n_main__ + a\u201d of\n\nmonitor()\n\ndescribe your planned activities (e.g., \u2018i will be coding in vscode and researching python on gfg'):\niworks with gfg, github and jupyter notebook for work]\n\n> 00:41\nq search a\n\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:41:17.735472",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled\n\n\u00a9) gittub >\n\n(2) yout\nalho\n\nj.ipynb?\n\n< jupyter untitled last checkpoint: 52 seconds ago\n\nfile edit view run kernel settings help\n\n@+x 6% > & c \u00bb code v jupyterlab (3 python [conda env:\ntog_activity({\"tumestamp\"? str(datetime.now()), \u201cbrowser_tab\"? current_tab, \u201ccontent\u201d: extracted_text, \u201ccategory\u201d\nsend_notification(detected_category) \u00bb | find x\nprevious_tab = current_tab\ntime. sleep(capture_interval)\n\ndevice set to use cpu\n[*]: af _name_ __main_' +e nn 4? 5\n\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'):\n\nr work\n\nstored intended activities: {'work-related'\ndebug: active tab: untitled - google chrome\ndebug: extracted text: untitled ma q gittub (2) your\n\n['github\u2019, 'gfg', \"jupyter notebook\"],\n\nalho ote! d.ipynb?\n= jupyter untitled last checkpoint: 48 seconds ago\nfile edit view run kermel settings help\n\n@+ xx 00 > \u00bb cg \u00bb code v\nwith open(log file, 'r') as f: -\ntess & jenne) * [find\nlogs .append(activity)\nwith open(log file, 'w') as\ncl\n\n\"not work-related\":\n\ni works with gfg, github and jupyter notebook fo\n\n(3\n\nq search\n\n@ python\nattention!\n\nyou are on track! keep up the great work!\n\n00:41\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:41:21.480712",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled ma q gittub (2) your\n\nalho ote! d.ipynb?\n\n= jupyter untitled last checkpoint: 56 seconds ago\n\nfile edit view run kermel settings help\n\n@+x 6% > & c \u00bb code v jupyterlab (3 python [conda env:\ntog_activity({\"timestamp\"? str(datetime.now()), \u201cbrowser_tab\"? current_tab, \u201ccontent\u201d: extracted_text, \u201ccategory\u201d?\nsend_notification(detected_category) \u00bb | find\nprevious_tab = current_tab\ntime. sleep(capture_interval)\n\ndevice set to use cpu\n\n[*]: af _name_ __main_' +e nn 4? 5\nmonitor()\nfile edit view run kernel settings help -\n\n@+x 6% > & c \u00bb code v jupyterlab (3 python [conda env:\n\ntog_activity({\"tumestamp\"? str(datetime.now()), \u201cbrowser_tab\"? current_tab, \u201ccontent\u201d: extracted_text, \u201ccategory\u201d\nsend_notification(detected_category) \u00bb | find x\n\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\ndevice set to use cpu\n[*]: af _name___main_' +e nn 4? 5\n\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'):\nr work\n\nstored intended activities: {'work-related\u2019\n\n@ python\nattention!\n\nyou are on track! keep up the great work!\n\n00:41\n09-02-2025\n\nq search",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:41:26.538993",
+        "browser_tab": "Machine Learning - Learning VS Designing - GeeksforGeeks - Google Chrome",
+        "content": "vy home x | kk untitled x 96 machinel x |) github-b x \u00a9 (@)youtub x | \\\\ netflixinc x | bh disneys x | \u00a9 entailmen x | @ task3:pro x\n\n\u20ac > g 8% geeksforgeeks.org/machine-learning-learning-vs-designing/?ref=ml_ibp\n\ncourses y tutorials y datascience q practice y os\n\ndata science ibm certification . .\nmachine learning\n\ngfg courses @90% refund eda [exploratory data analysis]\n\nshare your experiences data analysis with python\n\npython data visualization\nmachine learning - learning vs\n\nig - learning vs designing\n\ndesigning data science using python\n4, 02\n\nmeta-learning in machine data science using r\nlearning . earn about learning and designing and what are the main differences between\n\ndeep learning\ncontinual learning in machine nlp tutorial\nlearning 2 term learning refers to any process by which a system improves performance by\n\ncomputer vision ast data. it is kind of an iterative process and every time the system gets improved\nlearn machine learning in 45 . > a drastic change but yeah every time the system gets improved. learning is very\ndays interview corner > ~\n\nsuper sere ~~~ eee --~ jon\u2019t have to build or create the system from scratch.\n\nwhat is meta-learning in machine there are several types of machine learning, including:\nlearning in r\n\n1. supervised learning: in supervised learning, the machine learning algorithm learns from labeled data,\n\ngenerativelalnes machine which means the training data has predefined input-output pairs. the algorithm learns to predict the\n\nlearning output for new inputs based on this training data. examples of supervised learning include\nclassification and regression.\n\ndemystifying machine learning 2. unsupervised learning: in unsupervised learning, the machine learning algorithm learns from\n\nreiter medtaienin\u00ae unlabeled data, which means the training data has no predefined output. the algorithm learns to\n\u2018ule engine vs machine learning?\n\n3f 75\u00b0f\nclear\n\nidentify patterns or groupings in the data without any supervision. examples of unsupervised learning\n\nq search seteaeowmagooe\n\n4 dashboar x = +\n\n2\n\ndata analysis data visualization machine learning mlprojects deeplearning nlp computervision artificial intelligence\n\nq\n\n1k+ interested geeks\n\nartificial intelligence for kids -\ncomplete al course for...\n\navail 90% refund\n\n@ python\n\nattention!\n\nyou are on track! keep up the great work!\n\na x\n\n1k+ inter\n\ngate ran\nexpert-cu\n\navail 90\n\n00:41\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:41:30.613502",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixind x | @h disneys x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\ntos sonatina\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:41:50.732794",
+        "browser_tab": "(2) YouTube - Google Chrome",
+        "content": "vy home x | kk untitled x\n\u20ac > cg & youtube.com\nn\nyoutube\nall music\n\ns\u00ae fo f@ fd ill\n\n(ay) the magnus carlsen interview after\n\n26 machine l\n\ngrandmaster chess title\n\nx\n\nhis win over world champion guke...\n\nchessbase india @\n10k views + 40 minutes ago\n\nq gittub-2 x = @youtub x\n\ncomedy\n\nmixes\n\ndramedy\n\n2nd innings highlights | pakistan vs\nnew zealand | 1st od! | tri-nation...\n\nsports central @\n93k views + 47 minutes ago\n\nvins delhi\nelections!\nkejriwal loses seat!\n\nby prashant\n\n\\ netflix inc\n\nromantic comedies\n\n2nd innings highlige?s\n\nx\n\n3% camping in heavy snow with,\n\n\u201c2\u201d 4 2-room inflatable tent\n\nkirin camp @\n\n3f 75\u00b0f\nclear\n\nq search\n\n2 bjp wins delhi elections |\nkejriwal loses his own seat |...\ncareer247 @\n\nbn disney x | \u00a9 entailmen x\nx q u\nelectro-pop concert dances wickets\n\n#2024 mbc music festival #\nnewjeans - attention #newjeans...\n\nmbc world\n139k views + 5 days ago\n\nmarlen tjgsvoll | bang bang (my\nbaby shot me down) (cher) | blind...\nthe voice norway @\n\nseteaeommargoo\u00ae ae wy eoe\n\n@ task 3: pr\n\n2\n\nx |\" dashboar x | + a\nger\n+ cone 2\ndance covers satire live data s:\n\npytorch tutorial 5 - text\nclassification | sarcasm detection...\nomar m. atef\n\n187 views - 3 days ago\n\nia\n\nfreestyle chess\n\u2018grand slam tour\n\nday 2\n\nanin pamnin pao\n\neae\n\nsarcasm detepiony\n\n@ python me\nattention!\nyou are on track! keep up the great work!\ncness.com @\n00:41\n09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:42:00.891038",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "&\n\n3\n\na\ns home\n\n> \u00a2\n\ntsf\nclear\n\nx | & untitled\n\n\u00a33 nettflix.com/in/\n\nx\n\n26 machine l\n\nx\n\n\u00a9 gittub-8 x |g @youtub x | netfixing x bn disneys x | \u00a9 entailmen x | @ task 3:prc\n\nsquid game\n\n2024 a show thrillers dramas\n\nhundreds of cash-strapped players accept a strange invitation to compete in\nchildren's games. inside, a tempting prize awaits \u2014 with deadly high stakes.\n\ngao sp esosommagd of\n\nxx wm dashboar x = +\n\n@ python\n\nattention!\n\na\n\nrefocus on your tasks to stay productive.\n\n00:41\n09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:42:06.162982",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "\u00a5  s home x | xk untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 q)youtub x netflixind x 2m disneys x \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar xx | + - ag xx\n\n\u20ac > g  & hotstar.com/infhome?ref=%2fin ex \u00a9 d3) @\ndiup)\nhotstar\nhotstar specials\nq\nseason -2\n) 2025 - u/a16+ - 2seasons - hindi\n)\no)\n08\n(2)\nlatest releases @ python um\nattention!\nrefocus on your tasks to stay productive.\n75\u00b0f eng za 00:42\nclear om cy a) @&\n\nin 09-02-2025,",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:42:11.236290",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy s home\n\n<-\u00a2\n\n\u201cdienep>\nhotstar\n\nq\n\nia)}\n\nhttps:/awww.hotstar.com/in/sports/cricket/kamataka-bulldozers-vs-telugu-warriors/1540038261/video/live/watch\n\ntsf\nclear\n\nx | xk untitled x | 26 machinel x | \u20ac) github-8\n\n3 hotstar.com/in/home?ref=%2fin\n\nkarnataks eb ulldozers\n\nlive - celebrity cricket league 2025 - cricket\n\nwatch the live stream of the celebrity cricket league\n2025 match between telugu warriors and karnataka\nbulldozers\n\n\u00bb watch now\n\nlatest releases\n\nq search\n\nx\n\n\u00ae @ youtut\n\nx\n\n\\ netflix inc\n\nx dh disney+h xx \u00a9 entailmen x\n\nthe my\nstoryteller\n\n@ task 3: pr\n\nx\n\ndashboar\n\nx\n\n00:42\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:42:16.852979",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | & untitled * | 26 machinel x | \u20ac) github-8 x | gp @youtub x | \\\\ netflixind x 2h disney+h * \u00a9 entailmen x | @ task3:pro x | 4\" dashboar xx | + =\n\n\u20ac > g  & hotstar.com/in/home?ref=%2fin qx\n\nding\nhotstar\n\nhotstar specials\n\nukra ke\nle pinr\n\na hr\n\nq\n\n2024's most watched show\n) 2024 - u/a16+ - 1season - hindi\n_ two families clash over societal and caste differences,\n=) spurring a saga of revenge. all this happens when a\n\nlove story goes wrong.\n\u00a9\n\ndrama | betrayal | revenge | common-man struggles\n\n3\n\u00bb watch now +\n\n2)\n\nlatest releases @ python\n\n% a attention!\n\nthe aa you are on track! keep up the great work!\nstoryteller\n\n2. ces)\n\ning aw) @\n\na\n*\n\n3f 75\u00b0f\nclear\n\nyi\n00:42\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:42:23.241970",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "v home x untitled x machine x | \u20ac) github-b x\n\n3 hotstar.com/in/home?ref=%2fin\n\nan\nding)\nhotstar 4\n\ned\no lowr\n\nq\n2024's most watched show\noo) 2024 - u/a16+ - 1season - hindi $\n4 two families clash over societal and caste differences,\n0 spurring a saga of revenge. all this happens when a\nlove story goes wrong.\n\u00a9\ndrama | betrayal | revenge | common-man struggles\n08 *\n(2)\nlatest releases\n=\nbe @)saxch\n\n (2)youtub x netflixnd x 2m disneys x \u00a9 entailmen\u2019 x | @ task3:pro x | m= dashboar xx | + - ag xx\n\nar \u00a9 d4\n\n@ python ee\n\nattention!\nyou are on track! keep up the great work!\nfila) ta\n\neng 00:42\nwm | 7 05.07 202\n\na @",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:42:29.712350",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "v home x untitled x machine x | \u20ac) github x\nse cc 23 hotstar.com/in/home?ref=%2fin\n\ndiop)\n\nhotstar\n\nhotstar specials\n\nthukra ke\n\na hrpm\n\nq\n2024's most watched show\noc 2024 - u/a16+ - 1season = hindi\n= two families clash over societal and caste differences,\n=) spurring a saga of revenge. all this happens when a\nlove story goes wrong.\n\u00a9\ndrama | betrayal | revenge | common-man struggles\n08\n\u00bb watch now +\n@\nlatest releases\nbe q search\n\n\u00ae) (2)youtub x netflixnd x 2m disneys x \u00a9 entailmen\u2019 x | @ task3:pro x | m= dashboar xx | + - ag xx\ner o)| @\nyr \u00abela\n@ python ieee\nattention!\nyou are on track! keep up the great work!\nc1g4 4\neng 2 00:42\n=| df ff wr os",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:44:56.055136",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled\n\nalho\n\n= jupyter untitled last checkpoint: 57 seconds ago\n\nfile edit\n@+ xx\n[*]:\n\nq gittub (2) your\n\nj.ipynb?\n\nview run kernel settings help\n\nob oo > m= cg \u00bb code v jupyterlab (3 python [conda env:\nlogs. append(activity) \u00bb | find\n\nwith open(log_file, 'w') as f:\njson.dump(logs, #, indent=4)\n\n# main monitoring loop\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\")\nscreenshot_path = capture_screen()\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"timestamp\": str(datetime.now()), \u201cbrowser_ta current_tab, \"content\n\n\"not work-related\u201d:\n\n: extracted_text, \"category\": detected_category})\n\nif detected_category\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep (capture_interval)\n\ndevice set to use cpu\n\n+ ot 4 f\n\nif _name_ _main__\":\n\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'): i am working with gfg, hackerrank, github and jupyt\n\ner notebook for work j\n\n00:44\n\nq search 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:08.329946",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled ma q gittub (2) your\n\nalho ote! d.ipynb?\n\n= jupyter untitled last checkpoint: 59 seconds ago\nfile edit view run kernel settings help\n\n@+x o60 o > & c \u00bb code v jupyterlab (3 python [conda env:\nsend_notification(detected_category) > lfind\nprevious_tab = current_tab nm\n\ntime. sleep(capture_interval)\n\ndevice set to use cpu\n\n[*]: af _name__\n\n_main_\n\n+ * 47 8\nmonitor()\n\nexpected_activities = load_expected_activities() \u201c\nwhile true:\n\ncurrent_tab = get_active_browser_tab()\n\nprint(f\"debug: active tab: {current_tab}\")\n\nscreenshot_path = capture_screen()\n\nextracted_text = extract_text(screenshot_path)\n\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"timestamp\": str(datetime.now()), \u201cbrowser_ta current_tab, \u201ccontent\n\n\u201cnot work-related\u201d:\n\n: extracted_text, \"category\": detected_category})\n\nif detected_category\nsend_notification(detected_category)\n\nprevious_tab = current_tab +\n\nq search ; ve\n\n09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:17.939033",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "&\n\n3\n\na\ns home\n\n> \u00a2\n\ntsf\nclear\n\nx | & untitled\n\n\u00a33 nettflix.com/in/\n\nx\n\n26 machine l\n\nx\n\n\u00a9 gittub-8 x |g @youtub x | netfixing x bn disneys x | \u00a9 entailmen x | @ task 3:prc\n\nsquid game\n\n2024 a show thrillers dramas\n\nhundreds of cash-strapped players accept a strange invitation to compete in\nchildren's games. inside, a tempting prize awaits \u2014 with deadly high stakes.\n\nse eeeomamagooe\n\nxx wm dashboar x = +\n\nes @ae\n\n@ python\n\nattention!\n\nrefocus on your tasks to stay productive.\n\na x\n\n00:45\n09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:24.035678",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "\u201cdienep>\nhotstar\n\na\n\n(3 aya\n\nclear\n\nhome\n\nie]\n\nx untitled x machinel x | ) github-8 x | @ (@youtub x netflixnd x 2m disneys x \u00a9 entailmen\u2019 x | @ task3:pro x | m= dashboar xx | + - ag xx\n\n\u00a33 hotstar.com/in/home?ref=%2fin qx 5)! @&\n\nhotstar specials\n\nukba ke\ntepyr\n\n2024 - u/a16+ - 1season - hindi\n\ntwo families clash over societal and caste differences,\nspurring a saga of revenge. all this happens when a\nlove story goes wrong.\n\ndrama | betrayal | revenge | common-man struggles x\n\u00ae watch now er oe | ae 22 a>\nnas\nlatest releases mh python mi\n\nattention!\nrefocus on your tasks to stay productive.\n\nt1g\u21224 a\neng 00:45\nq search =| a @ wh fp) \u00ae 69-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:28.203487",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixinc x | @h disney x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:32.059421",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixinc x | @h disney x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:35.745970",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixinc x | @h disney x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:39.512018",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixinc x | @h disney x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:43.315398",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixinc x | @h disney x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:47.151748",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy f home x | xk untitled x | 26 machinel x |) github-b) x  @\u00ae q)youtub x | \\ netflixinc x | @h disney x | \u00a9 entailmen\u2019 x | @ task3:pro xx | mh dashboar x | + - a x\n\u20ac > g 2% github.com &* (\u00a9 3)| @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n+\n\ntsf\nclear\n\nac brb ommagd of a 0 99 gn",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:52.437434",
+        "browser_tab": "(2) YouTube - Google Chrome",
+        "content": "vy home x | xk untitled x | 26 machinel x | \u20ac) github-2 x  & @youtub xx | netflixind x | bh disneys xx | @ entailmen x | @ task3:pro x | ma dashboar x | + = a x\n\n\u20ac > g  %& youtube.com  @ @ :\n= in\n= wyoulube comedy xa) & + create (2 @&\nf all music grandmaster chess title news dramedy mixes romantic comedies electro-pop concert dances wickets dance covers satire live data s >\nhome\n\u2018shorts\n= '\ng)\n\u2018subscriptions\nsarcasm detagti\nag?\n\u00ae 2nd innings highligh''s i=)\nyou\n(ay) the magnus carlsen interview after = 2nd innings highlights | pakistanvs  : \u2018#2024 mbc music festival #- : gf pytorch tutorial 5 - text 3\nhis win over world champion guke... new zealand | 1st od! | tri-nation... newjeans - attention #newjeans... classification | sarcasm detection...\nchessbase india @ sports central @ mbc world omar m. atef\n10k views + 40 minutes ago 93k views + 47 minutes ago 139k views + 5 days ago 187 views - 3 days ago\n\neae\n\np wins delhi\nelections!\n\noe\n\nfreestyle chess\n\u2018grand slam tour\n\nday 2\n\nkejriwal loses seat!\n\nby prashant\ndhawan fe)\n\nrapid round robin *\\\n[22:10] : / acheson 44228\n3% camping in heavy snow with: 2 bjp wins delhi elections | : marlen tjgsvoll | bang bang (my : i) freestyle chess grand slam\n\u201c<3\u201d 4 2-room inflatable tent kejriwal loses his own seat |... baby shot me down) (cher) | blind... weissenhaus | will magnus, hikaru...\nkirin camp @ career247 @ the voice norway @ chess.com @\n\nc be q search seteaeommargoo\u00ae a 0 yf 9@ wont",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:45:58.024009",
+        "browser_tab": "(2) YouTube - Google Chrome",
+        "content": "vy home x | xk untitled x | 26 machinel x | \u20ac) github-2 x  & @youtub xx | netflixind x | bh disneys xx | @ entailmen x | @ task3:pro x | ma dashboar x | + = a x\n\n\u20ac > g  %& youtube.com  @ @ :\n= in \u2018 @\n= w)oulube comedy x q u + create lf\nf all music grandmaster chess title news dramedy mixes romantic comedies electro-pop concert dances wickets dance covers satire live data s >\nhome\nshorts\n= '\ng)\n\u2018subscriptions\n(a) sarcasm detepiony\nyou\n(ay) the magnus carlsen interview after : 2nd innings highlights | pakistanvs : = #2024 mbc music festival #- pytorch tutorial 5 - text :\nhis win over world champion guke... new zealand | 1st odi | tri-nati newjeans - attention #newjeans... classification | sarcasm detection...\nchessbase india @ sports central @ mbc world omar m. atef\n10k views + 40 minutes ago 93k views + 47 minutes ago 139k views + 5 days ago 187 views - 3 days ago\n\nvins delhi spee\nections! i mays\n\nkejriwal loses seat!\n\nfreestyle chess\n\u2018grand slam tour\n\nday 2\n\nrapid round robin *\\\nichess. ox 4:42:29\n3% camping in heavy snow with: 2 bjp wins delhi elections | : & marlen tjgsvoll | bang bang (my : i) freestyle chess grand slam\n\u201c<3\u201d 4 2-room inflatable tent kejriwal loses his own seat |... baby shot me down) (cher) | blind... weissenhaus | will magnus, hikaru...\nkirin camp @ career247 @ the voice norway @ chess.com @\n\neee q search seseftraoaeoonmae\n\nfs eng 00:45,\noo i df ff wr",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:03.195397",
+        "browser_tab": "(2) YouTube - Google Chrome",
+        "content": "v home x untitled \u2014 x machine x | \u20ac) github-8 x |) @)youtub x netflix in\n\n\u00a9 g  %% youtube.com\nin\n\n= youtube comedy\n\nf all music grandmaster chess title news dramedy mixes. romantic comedies\nhome\n\nshorts\n\n= '\n\n(ic)\n\u2018subscriptions\n\n(3 aya\n\nclear\n\n(ay) the magnus carlsen interview after = @e 2nd innings highlights | pakistan vs\nhis win over world champion guke... new zealand | 1st odi | tri-nati\n\nchessbase india @ sports central @\n10k views + 40 minutes ago 93k views + 47 minutes ago\n\nvins delhip\"stsptreen\nections! a wins\nkejriwal loses seat! 4\n\nby prashant\ndhawan fi )\n\n@\u2122%& = camping in heavy snow with: 2 bjp wins delhi elections |\n\u201ca3\u201d a 2-room inflatable tent kejriwal loses his own seat |...\n\nkirin camp @ career247 @\n\nx\n\nbh disneys x | \u00a9 entailmen x | @ task3:pi\n\nx q u\n\nelectro-pop concert dances wickets\n\nq search = 8b @\n\n2024 mbc music festival :\nnewjeans - attention #newjeans...\n\nmbc world\n139k views + 5 days ago\n\n2:12\n\nmarlen tjgsvoll | bang bang (my\nbaby shot me down) (cher) | blind...\n\nthe voice norway @\n\nx |\" dashboar x | + -\ng&x* o\n\n+ create g\n\ndance covers satire live data s:\n\n6\n\nsarcasm detepiony\n\npytorch tutorial 5 - text\n\nclassification | sarcasm detection...\n\nomar m. atef\n\n187 views - 3 days ago\n\noe\n\nfreestyle chess\n\u2018grand slam tour\n\nday 2\n\nrapid round robin \"4\n\nchesscom\n\nfreestyle chess grand slam\nweissenhaus | will magnus, hikaru...\n\nchess.com @\n\n00:45\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:08.073128",
+        "browser_tab": "(2) YouTube - Google Chrome",
+        "content": "v home x untitled \u2014 x machine x | \u20ac) github-8 x |) @)youtub x netflix in\n\u00a9 g  %% youtube.com\n= in\n= (youtube comedy\nf all music grandmaster chess title news dramedy mixes. romantic comedies\nhome\n\nx ry\n\n(3 aya\n\nclear\n\n2nd innings highlights | pakistan vs\nnew zealand | 1st odi | tri-nati\n\nsports central @\n93k views + 47 minutes ago\n\nthe magnus carlsen interview after\nhis win over world champion guke...\n\nchessbase india @\n10k views + 40 minutes ago\n\n3) \\\n\nvins delhi see\nections! puns\nkejriwal loses seat! 4\n\nby prashant\ndhawan fi )\n\nbjp wins delhi elections |\nkejriwal loses his own seat |...\ncareer247 @\n\nae 3% camping in heavy snow with\n\u201c2\u201d 4 2-room inflatable tent\nkirin camp @\n\nq search ee\n\nx\n\nbh disneys x | \u00a9 entailmen x | @ task3:pi\nx q u\nelectro-pop concert dances wickets\n\n2024 mbc music festival :\nnewjeans - attention #newjeans...\n\nmbc world\n139k views + 5 days ago\n\n2:12\n\nmarlen tjgsvoll | bang bang (my\nbaby shot me down) (cher) | blind...\n\nthe voice norway @\n\nx |\" dashboar x | + - oa x\ngar 3)| @&\n2 a\n+ create th, dita\ndance covers satire live data s >\n\n6\n\nsarcasm detepiony\n\npytorch tutorial 5 - text\nclassification | sarcasm detection...\n\nomar m. atef\n187 views - 3 days ago\n\nfreestyle chess\n\u2018grand slam tour\n\nday 2\n\nrapid round robin \"4\n\nchesscom oe)\n\nfreestyle chess grand slam\nweissenhaus | will magnus, hikaru...\nchess.com @\n\n09-02.\n\n00:46\n\n-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:13.541312",
+        "browser_tab": "(2) YouTube - Google Chrome",
+        "content": "v home x untitled x machine x | \u20ac) github-8 x \u2014 () @)youtub x netflixind x | an disneys} x | \u00a9 entailmen\u2019 x | @ task3:pro x | ma dashboar x | + - ag xx\n\n\u20ac g83 youtube.com & ex 5)! @\n= w\u00a7)yyoutube comedy x q u + create {2 deal\nf all music grandmaster chess title news dramedy mixes romantic comedies electro-pop concert dances wickets dance covers satire live data s >\nhome\n\ng)\n\u2018subscriptions\nsarcasm det\n8 \u2014 > tre \u201ctie\nyou -\n(ay) the magnus carlsen interview after = sports gentral highlights | pakistanvs  : = 2024 mbc music festival 3 \u20ac% pytorch tutorial 5 - text 3\nhis win over world champion guke... new zealand | 1st od! | tri-nati newjeans - attention #newjeans... t \u00a5 classification | sarcasm detection...\nchessbase india @ sports central @ mbc world omar m. atef\n10k views + 40 minutes ago 93k views-+47 minutes ago 139k views + 5 days ago 187 views - 3 days ago\n\nsports central\n\noe\n\nfreestyle chess\n\u2018grand slam tour\n\nday 2\n\nrapid round robin \"4\n\nvins delhip\"stsptreen\nections! a wins\nkejriwal loses seat! 4\n\nby prashant\ndhawan fi )\n\n242 ichesscom 44229\n@\u2122% ==: camping in heavy snow with. : 2 bjp wins delhi elections | gg marlen tjesvoll | bang bang (my : i) freestyle chess grand slam\n\u201c3\u201d 2-room inflatable tent kejriwal loses his own seat |... baby shot me down) (cher) | blind... weissenhaus | will magnus, hikaru...\nhttps://www.youtube.com/@sportscentralofficial career247 @ the voice norway @ chess.com @\n(3 aya eng 00:46\nq search =s &\u00a9& se bb @ in mm \u00a2 =| a 2 ow pf y\u00a9& o5.02205\n\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:17.676138",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xx untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x || netflxind x ah disneys x | \u00a9 entailmen x | @ task3:pro x | ma dashboar x | + = x\n\na\n\u20ac > gs  & netflixcom/in/ qx @ a) @:\n\nsquid game\n\n2024 a show thrillers dramas\n\nhundreds of cash-strapped players accept a strange invitation to compete in\nchildren's games. inside, a tempting prize awaits \u2014 with deadly high stakes.\n\n3f 75\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:21.978775",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xx untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x || netflxind x ah disneys x | \u00a9 entailmen x | @ task3:pro x | ma dashboar x | + = x\n\na\n\u20ac > gs  & netflixcom/in/ qx @ a) @:\n\nsquid game\n\n2024 a show thrillers dramas\n\nhundreds of cash-strapped players accept a strange invitation to compete in\nchildren's games. inside, a tempting prize awaits \u2014 with deadly high stakes.\n\n3f 75\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:25.991602",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xx untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x || netflxind x ah disneys x | \u00a9 entailmen x | @ task3:pro x | ma dashboar x | + = x\n\na\n\u20ac > gs  & netflixcom/in/ qx @ a) @:\n\nsquid game\n\n2024 a show thrillers dramas\n\nhundreds of cash-strapped players accept a strange invitation to compete in\nchildren's games. inside, a tempting prize awaits \u2014 with deadly high stakes.\n\n3f 75\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:30.091339",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xx untitled x | 26 machinel x | \u20ac) github-8 x | \u00a9 @)youtub x || netflxind x ah disneys x | \u00a9 entailmen x | @ task3:pro x | ma dashboar x | + = x\n\na\n\u20ac > gs  & netflixcom/in/ qx @ a) @:\n\nsquid game\n\n2024 a show thrillers dramas\n\nhundreds of cash-strapped players accept a strange invitation to compete in\nchildren's games. inside, a tempting prize awaits \u2014 with deadly high stakes.\n\n3f 75\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:34.639197",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk untitled x | 26 machinel x | \u20ac) github-2 x | g @youtub x\n\n\u20ac > g2 netflix.com/in/\n\n- netflixind x\n\nbn disney x | \u00a9 entailmen x\n\n@ task3:pro x | ome\n\ndashboar x = +\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\n\nsnes (clnrenmesee ape we dhe) save your favourites easily and\n\neee q search \u00a9 82 ea\n\nwatch everywhere\n\nstream unlimited movies and tv\nshows on your phone, tablet, laptop\n\neommago\n\ncreate profiles for kids\n\nsend kids on adventures with their\nfavourite characters in a space made\n\naw\n\n[3\n\n00:46\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:39.022934",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk untitled x | 26 machinel x | \u20ac) github-2 x | @\u00ae @youtub x \u2014 netflixind x bh disney+t xx | @ entailmen xx | @ task3:pro x | ma dashboar x | + =\n\na\n\u20ac > gf netflixcom/in/ qe @ a1@\n\na\nifferen\ndiersrent\n\nthis spinoff of \"the cosby show\u201d follows denise huxtable to historically black\nhillman college, where she befriends an eclectic group of students.\n\nse aaa ts esteecocmma goof aa 09m yak",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:43.333077",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk untitled x | 26 machinel x | \u20ac) github-2 x | @\u00ae @youtub x \u2014 netflixind x bh disney+t xx | @ entailmen xx | @ task3:pro x | ma dashboar x | + =\n\na\n\u20ac > gf netflixcom/in/ qe @ a1@\n\na\nifferen\ndiersrent\n\nthis spinoff of \"the cosby show\u201d follows denise huxtable to historically black\nhillman college, where she befriends an eclectic group of students.\n\nse aaa ts esteecocmma goof aa 09m yak",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:47.774402",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | xk untitled x | 26 machinel x | \u20ac) github-2 x | @ @youtub x \u2014 netflixind x 2h disney+h =x \u00a9 entailmen x\n\n\u20ac > g2 netflix.com/in/\n\n@ task3:pro x | mm dashboar xx | +\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows watch everywhere\n\nwatch on smart tvs, playstation, to watch offline\n\nstream unlimited movies and tv\nxbox, chromecast, apple tv, blu-ray\n\nrevetcuriaveuntesteaciivand shows jon your phone, tablet, laptop\n\nse c+ swe re beohmagd\n\ncreate profiles for kids\n\nsend kids on adventures with their\nfavourite characters in a space made\n\naw\n\n[3\n\n00:46\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 00:46:51.220058",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled x mac! hub\n\nntitled.ipynb?\n= jupyter untitled last checkpoint: 2 minutes ago fy\nfile edit view run kernel settings help trusted\n@+ xx 0 o > = cg \u00bb code v jupyterlab (7 python [conda env:base]* \u00a9 =\nsend_notification(detected_category) > find x\nprevious_tab = current_tab finy\ntime. sleep(capture_interval)\ndevice set to use cpu\nmain\": + a 4 pe\n\n[*]: af _name__\nmonitor()\n\ndevice set to use cpu\n+otaft\n\nif _name_ _main\n\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'): i am working with gfg, hackerrank, github and jup\nyt\n\ner notebook for work j\n\n00:44\nq search @9-02-2025 bd\ndebug: active tab: untitled - google chrome y;\n\n00:46\n09-02-2025\n\nq search",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:02:25.582195",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled x\n\nalho\n\n< jupyter untitled last checkpoint: 1 minute ago fy\nfile edit view run kernel settings help trusted\n@+ xx \u00a9 f > & gc \u00bb code v jupyterlab (2 python [conda env:base]* \u00a9 =\n\nv v\n\ndef monitor(\nglobal previous_tab\nget_user_intended_activities()\n\nexpected_activities = load_expected_activities()\nwhile true:\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\"\nscreenshot_path = capture_screen()\n\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"\n\nimestamp\"\n\nstr(datetime.now()), \"browser_tal\n\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\n\nif detected_category == \u201cnot work-related\":\nsend_notification(detected_category)\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\nmain function called\n\n[*]: af _name__ _main__\":\n\n+ ot 4 f\n\nmonitor()\n\ndescribe your planned activities (e.g., \u2018i will be coding in vscode and researching python on gfg'):\n\niam working with gfg, github and jupyter notebook\n\n\u00e9 01:02\nq search a\n\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:02:40.919732",
+        "browser_tab": "Untitled - Google Chrome",
+        "content": "untitled x\n\nalho\n\n= jupyter untitled last checkpoint: 1 minute ago fy\n\nfile edit view run kernel settings help trusted\n\nase]* \u00a9 =\n\n@+ xx \u00a9 f > & gc \u00bb code v jupyterlab (2 python [conda env:\n\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\n\nwhile true:\n\ncurrent_tab = get_active_browser_tab()\n\nprint(f\"debug: active tab: {current_tab}\")\n\nscreenshot_path = capture_screen()\n\nextracted_text = extract_text(screenshot_path)\n\nanalyze_content(extracted_text, expected_activities)\n\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\n\ndetected_category\n\nlog_activity({\"timestamp\": str(datetime.now()), \u201cbrowser_tal\n\nif detected_category\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\n\"not work-related\u201d:\n\nmain function called 1\n\n+ ot 47 8\n\n[*]: af _name__\n\n_main__\n\nmonitor()\nsend_notification(detected_category)\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\nmain function called\n\n[*]: af _name__ _main__\":\n\nsot af\n\nmonitor()\n\n01:02\n\nq search 09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:02:45.804399",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x |) xx untitled x | 26 machine x | \u20ac) github. x | hp @your x | netfixl) x  >n disney\u00bb x | \u00a9 entailm x | @ task3:f x | mh dashbo x | gd q)jupy x | + = a x\n\n\u20ac > g 8% netflix.com/in/ q x\n\ntrending now\n\n>\nrelcaded version\nmore reasons to join\n3 @ python bee\nenjoy on your tv download your shows watch everywhere create\nto watch offline ane\nwatch on smart tvs, playstation, stream unlimited movies and tv send kid; refocus on your tasks to stay productive.\n\nxbox, chromecast, apple tv, blu-ray revetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite _ pes cee\n\n[=e #@ re oemoeoom a oo \u00a9 aam 1:02\n\nin 09-02-2025\n\n3f 76\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:02:50.672926",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x |) xx untitled x | 26 machine x | \u20ac) github. x | hp @your x | netfixl) x  >n disney\u00bb x | \u00a9 entailm x | @ task3:f x | mh dashbo x | gd q)jupy x | + = a x\n\n\u20ac > g2 netflix.com/in/\n\nqx* i @ }\ntrending now\n>\nrelcaded version\nmore reasons to join\ne @ python\nenjoy on your tv download your shows watch everywhere create profiles\nto watch offline cel\nwatch on smart tvs, playstation, stream unlimited movies and tv send kids on adventure _refocus on your tasks to stay productive.\n\nxbox, chromecast, apple tv, blu-ray revetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in \u00ab\n\neee se eeesmmagoom an 1:02\n\nin 09-02-2025\n\n3f 76\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:02:56.834234",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x xx untitled x | 26 machine x | \u20ac) github. x | hb your x | \\ netfixl x | >n disneys x \u00a9 entailm x | @ task3:p x | mh dashbo x | (@)jupy x | + = a x\n\n\u20ac > g  & hotstar.com/in/home?ref=%2fin qx\n\nding\nhotstar\n\nms pyaar\n\na hr\n\nq\n2024's most watched show\noo 2024 - [uja164  - 1 season - hindi\na two families clash over societal and caste differences\n=)\n\nspurring a saga of revenge. all this happens wl\nlove story goes wrong.\n\ndrama | betrayal | revenge | common-man strugg\n\n|\neo 1\n\nlatest releases\n\noo\n\nthe i\nstoryteller\n\nfa\u00bb.\n\nq search & a = [| @ \u00a9 in | las) (4 oo 12) i mm \u00b0 man\n\n3f 76\u00b0f\nclear",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:02.824546",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "diop)\nhotstar\n\nol\n\norer\n\nclear\n\nhome\n\nie]\n\nx untitled x machine x | \u20ac) github. x | ( q)yout x netflix!) x pn disneys x \u00a9 entailme x | @ task3:p x | mb dashbo: x | @ @)jupy) x | + - ag xx\n\n3 hotstar.com/in/home?ref=%2fin @q x 0) 3 @\n\nhotstar specials\n\nra ke\ntoo har\n\nenvy\n2024's most watched show\n\n2024 - u/a16+ - 1season * hindi\n\ntwo families clash over societal and caste differences,\nspurring a saga of revenge. all this happens when 2.\nlove story goes wrong.\n\ndrama | betrayal | revenge | common-man struggles xt)\n\n\u00bb watch now in, te >\na tee) c\nlatest releases\nbran.) \\y\nps 01:02\nq search mm go b 2 bmd og 02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:08.796883",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x xx untitled x | 26 machine x | \u20ac) github. x | hb your x | \\ netfixl x | >n disneys x \u00a9 entailm x | @ task3:p x | mh dashbo x | (@)jupy x | + = a x\n\n\u20ac > g \u2014 & hotstar.com/in/home?ref=%2fin @q@ x am :\n= *\n\ndien)\n\nhotstar\n\nc omar\n\nq\n2024's most watched show\n() 2024 - u/a16+ + 1season = hindi\nil two families clash over societal and caste differences, bi\ns) spurring a saga of revenge. all this happens whena - *\nlove story goes wrong. =\n\u00a9 f\ndrama | betrayal | revenge | common-man struggles ~\n\u00bb watch now ar s\n(q) t (\n\nlatest releases\n\n% 7~=\n\nthe\nstoryteller\n\nfa\u00bb.\n\n76\u00b0f =n ane eng iz 01:03\njy clear q search df fe wr",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:14.880951",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "v home untitled x machine x | \u20ac) github. x *) (2)your x netflix!) % 2h disneys * \u00a9 entailm x | @ task3:p % | m\u2122 dashbo: x *) (2)jupy x | + = a x\n\u20ac g 25 hotstar.com/in/home?ref=%2fin qx 5 =\n\nding\nhotstar\n\nhotstar specials\n\nra ke\nhar\n\nenvy\n\nq\n2024's most watched show\n) 2024 - u/a16+ - 1season - hindi\na two families clash over societal and caste differences,\nso) spurring a saga of revenge. all this happens when a\nlove story goes wrong.\n\u00a9\ndrama | betrayal | revenge | common-man struggles > x)\n=\n3\n\u00bb watch now + =\n@ \u2018\n4\nlatest releases\n\u00a2 a\na, mea z\norer 3 eng 01:03\nclear q search =| ao jy \u00a9rrd iponaes",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:19.108863",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "a\nys home\n\n<> \u00a2\n\ndien)\nhotstar\n\na\n\noo\n\nsie\nsu\n\nx | & untitled x | 26 machine x | ) github. x | & q)yout\n\n\u00a33 hotstar.com/in/home?ref=%2fin\n\nhotstar specials\n\nkem so\nweet pyaar\n2024's aa show\n\n2024 - u/a16+ - 1season - hindi\n\ntwo families clash over societal and caste differences,\n\nspurring a saga of revenge. all this happens when a\nlove story goes wrong.\n\ndrama | betrayal | revenge | common-man struggles\n\n\u00bb watch now +\n\nlatest releases\n\nmer |\n\nq search\n\nx\n\n\\ netttix\n\nx\n\n\u2018en disneys x\n\n@ entaiim:\n\nx\n\n@ task 3:f\n\nx\n\n4 dashbo: x\n\n@ qyupy x + al a x\n\nthe\nstoryteller\n\nsreaesumaegoom\n\n01:03\n\ncs\na osore0s",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:23.507279",
+        "browser_tab": "Dashboard | HackerRank - Google Chrome",
+        "content": "dashboard | hackerrank\n\nhackerrank.com",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:27.573911",
+        "browser_tab": "Task 3: Procrastination Preventer - CV and LLM - Google Chrome",
+        "content": "> home\n\nie]\n\n= task 3: procrastination preventer - cv and llm\n\n76\u00b0f\nclear\n\nx\n\no file\n\nxx untitled\n\nx\n\nmachine le:\n\nx | \u00a9 github-buil x \u00a9 youtube x | \\\\ netflixindia x | bh disney+hot x | \u00a9 entailment\n\nc/users/ankit/downloads/task%203_%20procrastination%20preventer%20-%20cv%20and%20llm.pdf\n\ndeliverables:\n\n* source code: a github repository containing all the cc\nthe procrastination preventer system.\n\n* readme: a detailed readme file explaining the setup proces\ndependencies, and hor yun the system.\n\n* demonstration vii a 5-10 minute vic aining the\n\narchitecture of your solution, key challenges faced, and a live\n\ndemonstration of the system in action.\n* technical report: a pdf document outlining your appr , the\nmodels and libraries , and potential future improvement.\n\nassessment criteri:\n* functionality: the system >t and warn\nt procrastination iviti\n\nration: effective combination of computer vision and llm\n\nwell-structur: umented, and efficient\n\nq search & &8f bb e@ nmas\u00e9e\n\nx\n\ntask 3: proc\u2019\n\nx\n\n+\n\n*\n\neng\n\n@ python\n\nattention!\nrefocus on your tasks to sta\n\ne\n\nqx oo\n\na x\n&\ns :\n\n01:03\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:03:32.301755",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "> home x | & untitled x machine lea\u2019 x | \u20ac) github-buil x | @ (2)youtube x | \\ netflixindia \u2122% | 2m disney+hot x \u00a9 entailmenta) x @ task3:proce x +\n\ng  @file c:/users/ankit/downloads/task%203_%20procrastination%20preventer%20-%20cv%20and%20llm.pdf bs \u00a2 o b\ntask 3: procrastination preventer - cv and llm 4 & ?\ndata logging and analysi\n* log user activities,\nprivacy and\n* ensure all screen captures and user data are proc\nlocally and no\u2019 ored o itted.\npause monitoring\n8. testing and nn:\n* develop a comprehensive\naccuracy he system.\ndeliverables\n* source code: a github repository containing all the\nthe procrastination preventer system.\n* readme: a detailed readme file explaining the setup\ndependencies, and how to run the system.\n\u00ab demonstration video: a 5-10 minute video\narchitecture of your solution, key challenges f.\ndemonstration of the system in action.\n* technical report: a pdf document outlining your approach, th\nmodels and librar. used, and potential future improvements.\nassessment criter.\n* functionality: ould accurately detect and warn python x\n\nt procrastination activities.\n\nintegration: effective combination of computer vision and llm attention!\n\nrefocus on your tasks to stay productive.\nlocumented, and efficien\n\nclear\n\n76\u00b0f 2 \" _ gs eng za 01:03\nq search & &8f bb e@ in | =| ao tm of mmr",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:28:55.645285",
+        "browser_tab": "Procrastination Preventer - Google Chrome",
+        "content": "procrastinati: x b 2) youtube netflix ind\n\n<= jupyter procrastination preventer last checkpoint: 46 seconds ago 2\nfile edit view run kemel settings help trusted\n@+ xx 0 o > = cg \u00bb code v jupyterlab (7 python [conda env:base]* \u00a9) =\n\nwig thott\n\ny luup 2\n\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\")\nscreenshot_path = capture_screen()\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\n\ncurrent_tab, \"content\": extracted_text, \"category\": detected_category})\n\nlog_activity({\"timestamp\": str(datetime.now()), \u201cbrowser_tal\nnot work-related\u201d:\n\nif detected_category =\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep (capture_interval)\n\nmain function called\n\n[*]: af _name_ main__\u2019 +e nn 4? 5\nmonitor()\n| describe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'): github j\n\n01:28\n\nq search a 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:28:59.288025",
+        "browser_tab": "Procrastination Preventer - Google Chrome",
+        "content": "procrastinati: x b 2) youtube netflix ind\n\n<= jupyter procrastination preventer last checkpoint: 54 seconds ago 2\nfile edit view run kemel settings help trusted\n@+ xx 0 o > = cg \u00bb code v jupyterlab (7 python [conda env:base]* \u00a9) =\n\nween upen(eos=rztey ry es rs\ntess & jenne) *\nlogs .append(activity)\nwith open(log_file, \u2018w') as f:\njson.dump(logs, f, indent=4)\n\nmain monitoring loop\n\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\")\nscreenshot_path = capture_screen()\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\nlog_activity({\"timestamp\": str(datetime.now()), \"browser_tab\": current_tab, \"content\": extracted_text, \"category\": detected_category})\n\nnot work-related\":\n\nif detected_category =\nsend_notification(detected_category)\n\nprevious_tab = current_tab\n\ntime. sleep (capture_interval)\n\nmain function called\n\nmain\": + \u201d pe |\n\n[*]: af _name_\nmonitor()\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'): github\n\nstored intended activities: {'work-related': ['github'], \u2018not work-related\u2019: []}\n01:28\n\nq search : i 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:29:03.299115",
+        "browser_tab": "Procrastination Preventer - Google Chrome",
+        "content": "procrastinat' c g (2) your x d > iment\n\n<= jupyter procrastination preventer last checkpoint: 58 seconds ago\n\nfile edit view run kermel settings help\n\n@+ xx \u00a9 f > & gc \u00bb code v jupyterlab (2 python [conda env:\n\nif detected_category jot work-related\":\nsend_notification(detected_category)\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\nmain function called\n\n[*]: af _name__ main\": +e nn 4 p58\n\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'): github\n{'work-related': ['github'], \u2018not work-related\u2019: []}\n\ndebug: active tab: procrastination preventer - google chrome\n\ndebug: extracted text: procrastinati: x b 2) youtube netflix ind\n\nstored intended activitie\n\n<= jupyter procrastination preventer last checkpoint: 46 seconds ago 2\nfile edit view run kemel settings help trusted\n@+ xx @ 0 > = cg \u00bb code v jupyterlab (7 python [conda env:base]* \u00a9)\n\nwig thott\ny luup 2\n\ndef monitor():\n\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\n\nwhile trie:\n\nprocrastination preventer - goo. procrastination preventi.\n\n01:29\n09-02-2025\n\nq search",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:29:27.463462",
+        "browser_tab": "Procrastination Prevention Model - Google Chrome",
+        "content": "\u00a5 \u00a9 procrastination preventionmoc x = +\n\n\u20ac<\u20ac 7? cg 23 chatgpt.com/c/67a7812b-bde8-800a-b628-b19ab097 1cde\n\n@5 @ chatgpt 4o v\n\n> (mange impiementea:\n\ne replaced:\npython ocopy 2 edit\nplt.show()\nwith:\npython ocopy 2 edit\n\nplt. show(block=true)\n\n\u00a2 now, the matplotlib window remains\n\nopen until manually closed.\n\n@ try running analyze _logs() again and\nie\n\nconfirm if the plot is visil\n\nyvpaabe?e\n\njust sav\n\n+ @search ++ +)\n\nchatgpt can make mistakes. check important info.\n\n3f 76\u00b0f\nclear\n\nx\n\n431\n132\n133\n134\n135\n136\n137\n138\n139\n140\n141\n142\n143\n144\n145\n146\n147\n148\n1a9\n150\n451\n152\n153\n154\n155\n156\n157\n158\n159\n160\n161\n162\n2 163\n164\n\nprocrastination preventer v d 6 @ oo\n\npoemego cro geennor oe | coon gz\n\nreturn \u201cnot work-related\u201d\n\n# privacy and security: delete logs\nv def delete_logs():\nv if os.path.exists(log_file):\nos.remove(log_file)\nprint(\"logs deleted successfully.\")\nv else:\nprint(\u201cno logs found.\")\n\n# generate productivity analysis\n\ny def analyze _logs():\n\nv if not os.path.exists(log_file):\nprint(\"no log data available.\")\nreturn\n\nv with open(log_file, \u2018r\u2018) as f:\n\nlogs = json.load(f)\n\nwork_count = sum(1 for entry in logs if entry[\"category\"] == \u201cwork-related\")\nnon_work_count = sum(1 for entry in logs if entry[\"category\"] == \u201cnot work-related\")\nlabels = [\"work\", \"distractions\"]\n\ncounts = [work_count, non_work_count]\n\nplt.bar(labels, counts)\n\nplt.title(\"productivity analysis\")\n\nplt.ylabel(\u201cactivity count\")\n\nplt. show(block=true)\n\n# send notification\nv def send_notification(category):\nv if category == \u201cwork-related\u201d:\nreturn # do not send notification for work-related activities\n\nv messages = {\n\"work-related\": \"you are on track! keep up the great work!\",\n\u201cnot work-related\": \"refocus on your tasks to stay productive.\"\n\nmb @ seach seta eoumagoohs a.\n\nex 091@\n\ncy\n\n6)\n\n01:29\n09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:29:31.293085",
+        "browser_tab": "Procrastination Preventer - Google Chrome",
+        "content": "procrastinati: x\n\nnetflix ind\n\n< jupyter procrastination preventer last checkpoint: 1 minute ago\n\nfile edit view run kernel settings help trusted\n@+x 6% > & c \u00bb code v jupyterlab (3 python [conda env:base]* \u00a9) =\nif detected_category == \"not work-related\": \u201c\nsend_notification(detected_category)\nprevious_tab = current_tab\ntime. sleep(capture_interval)\nmain function called\n[*]: af _name_ main__ 5 oe * t7\nmonitor()\n\ndescribe your planned activities (e.g., 'i will be coding in vscode and researching python on gfg'):\nstored intended activities: {'work-related': ['github'], (t\n\ndebug: active tab: procrastination preventer - google chrome\n\ndebug: extracted text: procrastinati: x b 2) youtube netflix ind\n\n\"not work-related\":\n\n<= jupyter procrastination preventer last checkpoint: 46 seconds ago 2\nfile edit view run kemel settings help trusted\n@+ xx @ 0 > = cg \u00bb code v jupyterlab (7 python [conda env:base]* \u00a9) =\n\nwig thott\ny luup 2\n\ndef monitor():\n\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\n\nwhile trie:\n\ngithub\n\n@ python\n\nq search\n\nattention!\nrefocus on your tasks to stay productive.\n\nawo 01:29\n\nnein 09-02-2025,",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:30:36.581493",
+        "browser_tab": "Procrastination Preventer - Google Chrome",
+        "content": "procrastinati: x b 2) youtube netflix ind\n\n<= jupyter procrastination preventer last checkpoint: 51 seconds ago 2\nfile edit view run kemel settings help trusted\n@+ xx 0 o > = cg \u00bb code v jupyterlab (7 python [conda env:base]* \u00a9) =\n\nv v x\n\ndef monitor():\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\")\nscreenshot_path = capture_screen()\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\n\nstr(datetime.now()), \u201cbrowser_tab\": current_tab, \"content\": extracted_text, \"category\": detected_category})\n\nlog_activity({\"timestam\n\nif detected_category == \u201cnot work-related\":\nsend_notification(detected_category)\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\nmain function called\n\n[*]: af _name_ main\": +e nn 47 58\nmonitor()\ndescribe your planned activities (e.g., \u2018i will be coding in vscode and researching python on gfg'):\niam working with jupyter notebook, gfg, github for work] a\n\n01:30\n\nq search a 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:30:53.356567",
+        "browser_tab": "Procrastination Preventer - Google Chrome",
+        "content": "procrastinat' c g (2) your x d > iment\n\n<= jupyter procrastination preventer last checkpoint: 55 seconds ago 2\nfile edit view run kernel settings help trusted\n@+ xx \u00a9 f > & gc \u00bb code v jupyterlab (2 python [conda env:base]* \u00a9) =\n\nglobal previous_tab\nget_user_intended_activities()\nexpected_activities = load_expected_activities()\nwhile true:\ncurrent_tab = get_active_browser_tab()\nprint(f\"debug: active tab: {current_tab}\"\nscreenshot_path = capture_screen()\n\nextracted_text = extract_text(screenshot_path)\ndetected_category = analyze_content(extracted_text, expected_activities)\nstr(datetime.now()), \"browser_tal\n\ndetected_category})\n\nlog_activity({\"timestamp\" current_tab, \"content\": extracted_text, \"category\n\nif detected_category == \u201cnot work-related\":\nsend_notification(detected_category)\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\nmain function called\n\n+ ot 4 f\n\n[*]: af _name__\n\n_main_\":\n\nmonitor()\n\nstr(datetime.now()), \u201cbrowser_tab\": current_tab, \"content\": extracted_text, \"category\": detected_category})\n\nlog_activity({\"timestam\n\nif detected_category == \u201cnot work-related\":\nsend_notification(detected_category)\nprevious_tab = current_tab\n\ntime. sleep(capture_interval)\n\nmain function called\n\n[*]: af _name_ main\": +e nn 47 58 .\n\n01:30\n\nq search 09-02-2025",
+        "category": "not work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:30:57.529958",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy home x | jk procrastinatii x | 26 machinelea\u2019 x \u20ac) github-buil\u2019 x 9 (2)youtube x | \\ netflixindia. x | ah disney+hot x | \u00a9 entailmentar x | @ task3:procre xx | + = a x\n\u20ac > g (8% githubcom ge \u00a9) @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n@ python . x\n\nattention!\nrefocus on your tasks to stay productive.\n\n76\u00b0f\nclear\n\naaa set eaedhmma goo +6 % cee yam",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:01.644933",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy home x | jk procrastinatii x | 26 machinelea\u2019 x \u20ac) github-buil\u2019 x 9 (2)youtube x | \\ netflixindia. x | ah disney+hot x | \u00a9 entailmentar x | @ task3:procre xx | + = a x\n\u20ac > g (8% githubcom ge \u00a9) @\n\ngithub copilot is now available for free. learn more x\n\n() product y solutions y resources \u00a5 opensource y enterprise y pricing search or jump to... / sign in | sign up ]\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nos sanaa\n\n@ python . x\n\nattention!\nrefocus on your tasks to stay productive.\n\nair: very poor\nnow\n\naaa set eaedhmma goo +6 % cee yam",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:05.720075",
+        "browser_tab": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub - Google Chrome",
+        "content": "vy home x | xx procrastinatii x | 26 machinelea\u2019 x \u20ac) github-buil x \u00a9) (youtube %&% \\ netflixindia x | ah disney+hot xx | \u00a9 entailmentar x | @ task3:procre xx | + = a x\n\n\u20ac > g 8% github.com (2) youtube gre @\u00a92)|@\nyoutube.com\n\nae |\nallel is search or jump to... /)| signin | signup |\n\nlearn more x\n\n() product y solutions y resources y opensource v_ enterprise\n\n@ memory usage: 222 mb\n\nbuild and ship software on a\nsingle, collaborative platform\n\njoin the world\u2019s most widely adopted al-powered developer platform.\n\nts seaneind\n\n+\n\nair: very poor\nnow\n\naac spr eeomma gos .6% coo ,.m",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:10.605793",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk procrastinatii x | 26 machinelear x | \u00a9) github-buil x | @9 (2)youtube xx | netflixindia. x \u00a9 2h disney+hot x | \u00a9 entailmentar x | @ task3:procre x | + = a\n\n\u20ac > g  & netflixcomyin/ rr od @\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\nxbox, chromecast, apple tv, blu-ray\n\nwatch everywhere create profiles for kids\n\nstream unlimited movies and tv send kids on adventures with their\nrevetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in a ageais made\n\nair: very poor\n\nsern q search seseeommago o@- acy \u00a9 sey 01:31\n\nin 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:15.271396",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk procrastinatii x | 26 machinelear x | \u00a9) github-buil x | @9 (2)youtube xx | netflixindia. x \u00a9 2h disney+hot x | \u00a9 entailmentar x | @ task3:procre x | + = a\n\n\u20ac > g  & netflixcomyin/ rr od @\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\nxbox, chromecast, apple tv, blu-ray\n\nwatch everywhere create profiles for kids\n\nstream unlimited movies and tv send kids on adventures with their\nrevetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in a ageais made\n\nair: very poor\n\nsern q search seseeommago o@- acy \u00a9 sey 01:31\n\nin 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:19.912505",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk procrastinatii x | 26 machinelear x | \u00a9) github-buil x | @9 (2)youtube xx | netflixindia. x \u00a9 2h disney+hot x | \u00a9 entailmentar x | @ task3:procre x | + = a\n\n\u20ac > g  & netflixcomyin/ rr od @\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\nxbox, chromecast, apple tv, blu-ray\n\nwatch everywhere create profiles for kids\n\nstream unlimited movies and tv send kids on adventures with their\nrevetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in a ageais made\n\nair: very poor\n\nsern q search seseeommago o@- ao 8 aaw 01:31\n\nin 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:24.526736",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk procrastinatii x | 26 machinelear x | \u00a9) github-buil x | @9 (2)youtube xx | netflixindia. x \u00a9 2h disney+hot x | \u00a9 entailmentar x | @ task3:procre x | + = a\n\n\u20ac > g  & netflixcomyin/ rr od @\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\nxbox, chromecast, apple tv, blu-ray\n\nwatch everywhere create profiles for kids\n\nstream unlimited movies and tv send kids on adventures with their\nrevetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in a ageais made\n\nair: very poor\n\nsern q search seseeommago o@- ao 8 aaw 01:31\n\nin 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:29.457056",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | xk procrastinatii x | 26 machinelear x | \u00a9) github-buil x | @9 (2)youtube xx | netflixindia. x \u00a9 2h disney+hot x | \u00a9 entailmentar x | @ task3:procre x | + = a\n\n\u20ac > g  & netflixcomyin/ rr od @\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\nxbox, chromecast, apple tv, blu-ray\n\nwatch everywhere create profiles for kids\n\nstream unlimited movies and tv send kids on adventures with their\nrevetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in a ageais made\n\nair: very poor\n\nsern q search seseeommago o@- ao 8 aaw 01:31\n\nin 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:33.818830",
+        "browser_tab": "Netflix India \u2013 Watch TV Shows Online, Watch Movies Online - Google Chrome",
+        "content": "vy home x | jk procrastinatii x | 26 machinelear x | \u20ac) github-buil x | g9 (2)youtube x | netflixindia x | 2h disney+hot xx \u00a9 entailmentar x | @ task3:procre x | + = a\n\n\u20ac > g  & netflixcomyin/ rr od @\n\ntrending now\n\nrelsaded version\n\nmore reasons to join\n\nenjoy on your tv download your shows\n\nwatch on smart tvs, playstation, to watch offline\nxbox, chromecast, apple tv, blu-ray\n\nwatch everywhere create profiles for kids\n\nstream unlimited movies and tv send kids on adventures with their\nrevetcuriaveuntesteaciivand shows on your phone, tablet, laptop favourite characters in a ageais made\n\nair: very poor\n\nsern q search seseeommago o@- ao 8 aaw 01:31\n\nin 09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:39.848077",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | xk procrastinatii x | 26 machinelear x | \u00a9) github-buil x | @\u00ae (2)youtube x | | netflixindia x | 2h disneyshot x \u00a9 entailmentar x | @ task3:procre x | + = a x\n\n\u20ac > g 8% hotstar.com/in/home?ref=92fin rr o01 a:\ndien) ~\nhotstar \\\n\n\u2018\n\nhotstar specials\n\nra ke \u2018\nusar \u2018\n\nq envy\n2024's most watched show e\nk *\n) 2024 - u/a16+ + 1season - hindi \u2018\nqr nae -\n\u201ca two families clash over societal and caste dit 2\nso spurring a saga of revenge. all this happens,\nlove story goes wrong. q\nse a .\ndrama | betrayal | revenge | jon-man struggles\n,\nis hl \u00b0 .\n> ] a a lane\noa) aan\nlatest releases\nare = a eng 01:31\nnowe q search & e = e @o 1 | a s 1) 12) i l | ~ 2 ow pd\u00a9 6502-2005",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:44.339043",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | xk procrastinati x | 96 machinelea\u2019 x | \u20ac) github-buil x | g9 (2)youtube x | | netflixindia xx | 2h disney+hot x \u00a9 entailmenta\u2019 x | @ task3:proc x + = a x\n\n\u20ac > g 8% hotstar.com/in/home?ref=92fin er 00!1@\n\nlove story goes wrong.\n\nding\nhotstar drama | betrayal | revenge | common-man struggles\nb\u00ae watch now =f =} 2 lg\na teal)\naa\n\nlatest releases\n\nthe storyteller\n\nthe\nstoryteller\n\naf i\nve secretor\nshiledars\n\n2025 + u/a7+ * 1h52m = hindi - drama\n\na retiree takes up a job as a storyteller for an\ninsomniac. what happens when he discovers\nthat his tales are published under a pen name\nand have won accolades?\n\npe\n\n01:31\n09-02-2025",
+        "category": "work-related"
+    },
+    {
+        "timestamp": "2025-02-09 01:31:48.957393",
+        "browser_tab": "Disney+ Hotstar - Watch TV Shows, Movies, Specials, Live Cricket & Football - Google Chrome",
+        "content": "vy home x | xk procrastinati x | 96 machinelea\u2019 x | \u20ac) github-buil x | g9 (2)youtube x | | netflixindia xx | 2h disney+hot x \u00a9 entailmenta\u2019 x | @ task3:proc x + = a x\n\n\u20ac > g 8% hotstar.com/in/home?ref=92fin er 00!1@\n\nlove story goes wrong.\n\ndiop\n\nhotstar drama | betrayal | revenge | common-man struggles\n\u00bb watch now ee\n\naa\n\nlatest releases\n\ncy i\n\nstoryteller\n\nen\nhofstar speciais es > watch now +\nye secre tor re\n\nshiledars\n\n2025 + u/a7+ +\u00bb 1h52m * hindi \u00bb drama\n\naretiree takes up a job as a storyteller for an\ninsomniac. what happens when he discovers\nthat his tales are published under a pen name\nand have won accolades?\n\n01:31\n09-02-2025",
+        "category": "work-related"
+    }
+]
