@@ -88,6 +88,7 @@ python -c "import Procrastination_Preventer; Procrastination_Preventer.delete_lo
 - Verified that **notifications are only sent for distractions**.
 - The **accuracy of text extraction and classification** was tested under different scenarios.
 - Debugging logs were added to track processing steps and classification results.
+- ![image](https://github.com/user-attachments/assets/b85b5e03-4849-4295-bfbd-5e275883975a)
 
 ---  
 
