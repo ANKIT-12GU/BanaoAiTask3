@@ -13,6 +13,7 @@
 ├── 📜 BanaoAiTask3.tar.gz          # Compressed project archive
 ├── 📜 Procrastination Preventer Pdf Report.pdf  # Detailed project report
 ├── 📜 Procrastination Preventer.ipynb  # Jupyter Notebook implementation
+├── 📜 requirements.txt                    # library to install
 ├── 📜 README.md                    # Project documentation
 ├── 📜 Task-3 banao Ai.pdf           # Task document
 ├── 📜 expected_activities.json      # User's intended activities
