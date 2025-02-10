@@ -36,7 +36,7 @@
 
 ### **Step 1️⃣: Clone the repository**  
 ```bash
-[git clone https://github.com/YOUR_GITHUB_USERNAME/BanaoAiTask3.git](https://github.com/ANKIT-12GU/BanaoAiTask3.git)
+[git clone https://github.com/ANKIT-12GU/BanaoAiTask3.git]
 cd BanaoAiTask3
 ```
 
